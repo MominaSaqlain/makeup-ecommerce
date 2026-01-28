@@ -46,13 +46,7 @@ makeup-ecommerce/
 
 └── README.md
 
-
-
-
-
-\## 🚀 Quick Start
-
-
+\## Quick Start
 
 \### Backend Setup
 
@@ -105,91 +99,47 @@ Authentication: JWT
 
 
 \## Contact
-
 Your Name - your.email@example.com
 
-
-
 \# \*\* .gitignore
-
-
-
 ```gitignore
-
 \# Django
-
 \*.pyc
-
 \*\_\_pycache\_\_/
-
 \*.sqlite3
-
 \*.log
-
 venv/
-
 .env
-
 .env.local
-
-
 
 \# Node/React
-
 node\_modules/
-
 npm-debug.log\*
-
 build/
-
 dist/
 
-
-
 \# React Specific
-
 frontend/build/
-
 frontend/.env
 
-
-
 \# Django Specific
-
 backend/db.sqlite3
-
 backend/\_\_pycache\_\_/
 
-
-
 \# IDE
-
 .vscode/
-
 .idea/
 
-
-
 \# OS
-
 .DS\_Store
-
 Thumbs.db
 
-
-
 \# Environment variables
-
 .env
-
 .env.local
 
-
-
 \# Media files
-
 media/
-
 uploads/
 
 
